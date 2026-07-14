@@ -1,16 +1,5 @@
 # 🌐 SZABIST Campus Network Infrastructure
 
-<p align="center">
-
-![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Enterprise-blue?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-802.1Q-success?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/OSPF-Dynamic%20Routing-orange?style=for-the-badge)
-![DHCP](https://img.shields.io/badge/DHCP-Automation-green?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-ACL%20%26%20Port%20Security-red?style=for-the-badge)
-
-</p>
-
 A scalable and secure **enterprise campus network** designed in **Cisco Packet Tracer**. The project implements a three-tier hierarchical architecture connecting multiple campus buildings with centralized routing, switching, IP addressing, and security services.
 
 ---
